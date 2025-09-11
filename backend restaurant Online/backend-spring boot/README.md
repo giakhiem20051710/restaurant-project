@@ -1,4 +1,4 @@
-# Zosh Food
+# khiem Food
 
 1. **User:**
     - ID (Auto-generated)
@@ -54,12 +54,6 @@
     - Payment Status
     - Total Amount
     - Payment Timestamp
-7. **~~Delivery Executive:~~**
-    - ~~ID (Auto-generated)~~
-    - ~~Name~~
-    - ~~Contact Information~~
-    - ~~Availability Status~~
-    - ~~Current Location (Latitude and Longitude)~~
 8. **Review/Rating:**
     - ID (Auto-generated)
     - Customer (reference to User entity)
